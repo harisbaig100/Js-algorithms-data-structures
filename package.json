@@ -1,0 +1,19 @@
+{
+  "name": "js-algorithms-data-structures",
+  "version": "1.0.0",
+  "description": "javascript algorithms and data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harisbaig100/Js-algorithms-data-structures.git"
+  },
+  "author": "M.Haris Baig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harisbaig100/Js-algorithms-data-structures/issues"
+  },
+  "homepage": "https://github.com/harisbaig100/Js-algorithms-data-structures#readme"
+}
